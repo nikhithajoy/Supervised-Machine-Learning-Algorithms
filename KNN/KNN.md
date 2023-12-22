@@ -1,1 +1,1 @@
-
+K-Nearest Neighbors (KNN) is a simple, yet effective, supervised learning algorithm used for both classification and regression tasks. It is a non-parametric, instance-based, and lazy learning algorithm, meaning it doesn't make assumptions about the underlying data distribution and defers computation until the prediction phase. Instead of learning a model during training, KNN classifies new instances based on the similarity to existing instances in the training dataset.
