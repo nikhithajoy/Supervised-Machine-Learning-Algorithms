@@ -16,3 +16,11 @@ XGBoost (Extreme Gradient Boosting) is a scalable and efficient implementation o
 You can install XGBoost using pip:
 `pip install xgboost`
 
+### Hyperparameter Tuning
+XGBoost provides a wide range of hyperparameters that can be tuned to improve model performance. Common parameters include learning_rate, max_depth, n_estimators, and more. Grid search or random search can be used to find the optimal combination of hyperparameters.
+
+### Advanced Features
+1. Feature Importance: XGBoost allows you to assess the importance of each feature in the model, aiding in feature selection.
+
+2. Custom Objective and Evaluation Metrics: You can define custom objective functions and evaluation metrics to tailor XGBoost to specific problem requirements.
+
